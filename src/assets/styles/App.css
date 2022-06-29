@@ -1,0 +1,12 @@
+.c-box .chat-body {
+	max-width: none;
+	height: 400px;
+	overflow-y: auto;
+	padding: 0;
+}
+.chat-body::-webkit-scrollbar {
+	display: none;
+}
+.c-grid-answer {
+	height: 192px;
+}
